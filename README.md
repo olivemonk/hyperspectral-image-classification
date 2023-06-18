@@ -44,4 +44,4 @@ For more detailed information on the results and performance metrics, please ref
 ## Citation
 here the implemented "HybridSN" algorithm is proposed in the mentioned research paper:
 
-S. K. Roy, G. Krishna, S. R. Dubey, and B. B. Chaudhuri, "HybridSN: Exploring 3-D–2-D CNN Feature Hierarchy for Hyperspectral Image Classification," in IEEE Geoscience and Remote Sensing Letters.[Link to the paper]([https://www.example.com/paper](https://ieeexplore.ieee.org/document/8736016))
+S. K. Roy, G. Krishna, S. R. Dubey, and B. B. Chaudhuri, "HybridSN: Exploring 3-D–2-D CNN Feature Hierarchy for Hyperspectral Image Classification," in IEEE Geoscience and Remote Sensing Letters. [Link to the paper]([https://www.example.com/paper](https://ieeexplore.ieee.org/document/8736016))
